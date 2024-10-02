@@ -32,3 +32,5 @@ As principais dependências do projeto incluem:
 ## 🧪 Testes
 Os testes podem ser executados usando o seguinte comando:
 
+mvn test
+
