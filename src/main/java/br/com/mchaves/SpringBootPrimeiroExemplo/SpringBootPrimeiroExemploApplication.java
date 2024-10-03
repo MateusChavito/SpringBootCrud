@@ -1,4 +1,6 @@
 package br.com.mchaves.SpringBootPrimeiroExemplo;
+import jakarta.persistence.*;
+import lombok.*;
 
 import br.com.mchaves.SpringBootPrimeiroExemplo.domain.Cliente;
 import br.com.mchaves.SpringBootPrimeiroExemplo.repository.IClienteRepository;
