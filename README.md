@@ -1,4 +1,4 @@
-# 🚀 Spring Boot Teste
+# 🚀 Spring Boot Crud
 
 ## 📜 Descrição
 Este é um projeto de demonstração para o Spring Boot, que utiliza o Spring Data JPA e PostgreSQL para gerenciar dados de clientes.
